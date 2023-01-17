@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-paginate: true
 image: /assets/images/page_header.png
 ---
 
@@ -12,8 +11,8 @@ We focus on experimental music that incorporates retro sound.
 
 We are known for:
 * Eating cactus
-* Riding on the backs of rocket powered buffalo
-* Rocketing through space on a dirtball ship
+* Riding on rocket powered buffalo
+* Flying through space on a dirtball ship
 * Mattress tag collages
 
 With your support we can add music to that list.
