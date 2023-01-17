@@ -18,13 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Detention For Defects
+title: Detention for Defects
 email: ape@detentionfordefects.com
 description: "Home of the band Detention for Defects.  We make house and stuff."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://detentionfordefects.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DefectsApe
 github_username: DetentionForDefects 
+logo: /assets/icons/broken_robot.svg  
+author:
+  name: Dorian Yeager
+  picture: /assets/images/author_extra_small.jpg  
 
 # Build settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
