@@ -24,7 +24,7 @@ description: "Home of the band Detention for Defects.  We make house and stuff."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://detentionfordefects.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DefectsApe
-github_username: DetentionForDefects 
+facebook_profile_id: 100089598100181
 logo: /assets/icons/broken_robot.svg  
 author:
   name: Dorian Yeager
