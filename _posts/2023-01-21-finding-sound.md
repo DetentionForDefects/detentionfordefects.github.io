@@ -1,11 +1,10 @@
-
 ---
 title: "Finding Sound"
 excerpt_separator: "<!--more-->"
 categories:
-  - News
+  - Blog
 tags:
-  - release
+  - sound
 ---
 
 I've been trudging through the wilds this week hunting for sound.   
