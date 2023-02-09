@@ -26,8 +26,7 @@ is that it does not clearly display the notes and their relation to one another.
 difficult.  I think this is why so many guitarists know so little theory.   
 
 The piano is the exact opposite of this situation.  While the keyboard lays bare the notes and their relationship to one another 
-the patterns you must execute for the various scales are all different (with the exception of a given key and its relative).  
-You aren't going to find many pianists banging out improvised solos.   
+the patterns you must execute for the various scales often change.  This makes the pentatonic scales more difficult on a piano.
 
 This is why I feel like anyone serious about music (regardless of the instrument) should find a local church player to take piano 
 lessons with.  They will steep you in theory for fifty bucks a lesson.  That is the best music education you will find 
