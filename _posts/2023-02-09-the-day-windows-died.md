@@ -4,12 +4,12 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - thoughts
+  - thoughts, gear
 ---
 
 I was always a little wary putting all of my pro audio eggs in the Windows basket.  Past experience has shown me that Windows will
 die like a moth in the shower.  One minute you're scooting little boxes around on a field of green and the next you are standing
-over a wasteland of blue kernel blood with a sensible error message like: 0xoienarstoienuyohnoulnhkyourrectuminahat please contact
+over a wasteland of blue kernel blood with a sensible error message like: 0xOOAUWONEAHAOYWUFLHTOALUYWHFTOEIN please contact
 Windows support.
 <!--more-->
 
