@@ -1,8 +1,5 @@
 ---
 title: "Spacey Days Released"
-image:
-  path: /assets/images/the_call_single.png
-  thumbnail: /assets/images/the_call_single.png
 excerpt_separator: "<!--more-->"
 categories:
   - News
